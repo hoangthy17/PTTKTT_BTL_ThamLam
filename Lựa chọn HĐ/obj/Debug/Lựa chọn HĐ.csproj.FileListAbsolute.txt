@@ -1,0 +1,7 @@
+D:\PTTKTT_BTL_ThamLam\Lựa chọn HĐ\bin\Debug\Lựa chọn HĐ.exe.config
+D:\PTTKTT_BTL_ThamLam\Lựa chọn HĐ\bin\Debug\Lựa chọn HĐ.exe
+D:\PTTKTT_BTL_ThamLam\Lựa chọn HĐ\bin\Debug\Lựa chọn HĐ.pdb
+D:\PTTKTT_BTL_ThamLam\Lựa chọn HĐ\obj\Debug\Lựa chọn HĐ.csproj.AssemblyReference.cache
+D:\PTTKTT_BTL_ThamLam\Lựa chọn HĐ\obj\Debug\Lựa chọn HĐ.csproj.CoreCompileInputs.cache
+D:\PTTKTT_BTL_ThamLam\Lựa chọn HĐ\obj\Debug\Lựa chọn HĐ.exe
+D:\PTTKTT_BTL_ThamLam\Lựa chọn HĐ\obj\Debug\Lựa chọn HĐ.pdb

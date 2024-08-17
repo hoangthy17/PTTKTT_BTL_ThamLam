@@ -1,0 +1,7 @@
+D:\PTTKTT_BTL_ThamLam\Người GH\bin\Debug\Người GH.exe.config
+D:\PTTKTT_BTL_ThamLam\Người GH\bin\Debug\Người GH.exe
+D:\PTTKTT_BTL_ThamLam\Người GH\bin\Debug\Người GH.pdb
+D:\PTTKTT_BTL_ThamLam\Người GH\obj\Debug\Người GH.csproj.AssemblyReference.cache
+D:\PTTKTT_BTL_ThamLam\Người GH\obj\Debug\Người GH.csproj.CoreCompileInputs.cache
+D:\PTTKTT_BTL_ThamLam\Người GH\obj\Debug\Người GH.exe
+D:\PTTKTT_BTL_ThamLam\Người GH\obj\Debug\Người GH.pdb

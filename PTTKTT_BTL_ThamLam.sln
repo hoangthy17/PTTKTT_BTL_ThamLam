@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balo", "Balo\Balo.csproj", "{D6BD9BEA-8478-47DB-AABF-67F456EEEC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lựa chọn HĐ", "Lựa chọn HĐ\Lựa chọn HĐ.csproj", "{187D3424-AEE0-4739-BF79-A3C995E86939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Người GH", "Người GH\Người GH.csproj", "{D91E863C-43EE-4098-A424-D1D454240259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6BD9BEA-8478-47DB-AABF-67F456EEEC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BD9BEA-8478-47DB-AABF-67F456EEEC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BD9BEA-8478-47DB-AABF-67F456EEEC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BD9BEA-8478-47DB-AABF-67F456EEEC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187D3424-AEE0-4739-BF79-A3C995E86939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187D3424-AEE0-4739-BF79-A3C995E86939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187D3424-AEE0-4739-BF79-A3C995E86939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187D3424-AEE0-4739-BF79-A3C995E86939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91E863C-43EE-4098-A424-D1D454240259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91E863C-43EE-4098-A424-D1D454240259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91E863C-43EE-4098-A424-D1D454240259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91E863C-43EE-4098-A424-D1D454240259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F17B9E3-F3D5-4409-962C-8D406572C5E9}
+	EndGlobalSection
+EndGlobal
